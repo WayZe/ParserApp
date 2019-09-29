@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PARSERDB" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=HP-PC\SQLEXPRESS;Initial Catalog=PARSERDB;Integrated Security=True" SettingsObjectName="ParserApp.Properties.Settings" SettingsPropertyName="PARSERDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Курс" Member="Курс">
+    <Type Name="Курс">
+      <Column Name="дата" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="валюта" Type="System.String" DbType="NChar(3) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="курс" Storage="_курс1" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

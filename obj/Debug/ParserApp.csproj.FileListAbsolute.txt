@@ -1,0 +1,6 @@
+D:\Codes\ParserApp\bin\Debug\ParserApp.exe.config
+D:\Codes\ParserApp\bin\Debug\ParserApp.exe
+D:\Codes\ParserApp\bin\Debug\ParserApp.pdb
+D:\Codes\ParserApp\obj\Debug\ParserApp.csprojAssemblyReference.cache
+D:\Codes\ParserApp\obj\Debug\ParserApp.exe
+D:\Codes\ParserApp\obj\Debug\ParserApp.pdb
